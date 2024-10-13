@@ -10,8 +10,8 @@ dyn_fastapi_sheets
 ├── sheets_adapter.py              # Adapter for Google Sheets API to fetch configuration data
 ├── models.py                      # (Placeholder for data models if needed)
 ├── main.py                        # Entry point to run the FastAPI app
-├── playground-438509-58046b106ea8.json # Google Sheets service account credentials
 └── .env                           # Environment variables for credentials and sheet details
+└── env                            # Folder containing the google sheets auth file
 
 ## Setup
 
